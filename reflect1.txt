@@ -1,0 +1,19 @@
+A diff tool narrows the context to change areas only.
+A diff tool shows the old vs. new -- making it simpler to see diffs.
+---
+Having all the versions of a file history makes it easier to see the learning 
+between two versions.  In the long run it could also lead to quicker correct versions 
+since you have noticed trands in your prior file history examples.
+---
+Manual commits pro -- it affords the greatest amount of control over revisions.
+Manual commits con -- it allows commits to be ignored.
+---
+Multiple file versions per commit allow for proper grouping of the files at the time 
+of the commit.  The repository contains the files at commit time.
+---
+How can you use the commands git log and git diff to view the history of files?
+The log shows all the commits and a short description.  Git diff reveals the actual changes made in the files.
+---
+How might using version control make you more confident to make changes that 
+could break something?
+You can have full confidence because you can ALWAYS go back to a prior working version.
