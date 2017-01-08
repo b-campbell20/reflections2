@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+The init sets up the metadata for tracking commits in the .git folder.
+---
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-the staging area contains only thos files we want to commit right now.
+the value of a staging area is that it allows a scratch area for basing a commit even when there are many changes to files in the working directory which may not all need to be commited.
